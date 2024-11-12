@@ -29,6 +29,9 @@ Incluid debajo el nombre de los miembros del grupo:
 
 · Cierre de 1er Release (5%)
 
+![image](https://github.com/user-attachments/assets/c5bd4f78-5012-44f0-94cf-0ed4acc0d778)
+
+
 · Comienzo de la 2da Release (10%)
 
 · Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
