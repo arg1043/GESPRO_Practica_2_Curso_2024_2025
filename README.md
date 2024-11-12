@@ -21,10 +21,12 @@ Incluid debajo el nombre de los miembros del grupo:
 
 · Tareas de 1er Release en el Sprint Backlog (5%)
 
-
 · Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
-· Cierre de 1er Release (5%)
-· Comienzo de la 2da Release (10%)
-· Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
-· Imagen de conversación en dos tareas (10%)
 
+· Cierre de 1er Release (5%)
+
+· Comienzo de la 2da Release (10%)
+
+· Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
+
+· Imagen de conversación en dos tareas (10%)
