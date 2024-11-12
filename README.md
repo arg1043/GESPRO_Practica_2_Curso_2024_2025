@@ -21,7 +21,11 @@ Incluid debajo el nombre de los miembros del grupo:
 
 · Tareas de 1er Release en el Sprint Backlog (5%)
 
+![image](https://github.com/user-attachments/assets/e524a7a9-4ebe-46e5-8c01-af98bd3b0f80)
+
 · Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
+
+
 
 · Cierre de 1er Release (5%)
 
