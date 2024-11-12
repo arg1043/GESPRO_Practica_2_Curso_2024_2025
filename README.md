@@ -40,6 +40,8 @@ Type: Task ![image](https://github.com/user-attachments/assets/e9ac5b52-1470-418
 
 · Comienzo de la 2da Release (10%)
 
+![image](https://github.com/user-attachments/assets/6afaaa15-ed70-4923-9d6a-3a40a8c4441d)
+
 · Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
 · Imagen de conversación en dos tareas (10%)
