@@ -10,8 +10,8 @@ Incluid debajo el nombre de los miembros del grupo:
  - Bruno Arza López
 
 · Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
- Extensión Zenhub: https://chromewebstore.google.com/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
- Github: https://github.com/
+ -Extensión Zenhub: https://chromewebstore.google.com/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
+ -Github: https://github.com/
  
 · Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 ![image](https://github.com/user-attachments/assets/4f63b7d6-dfa4-4a1e-bd8e-cf4a6664412b)
