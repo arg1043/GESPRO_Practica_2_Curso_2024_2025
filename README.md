@@ -16,8 +16,12 @@ Incluid debajo el nombre de los miembros del grupo:
  - Historias de usuario: es una descripción breve y específica de una funcionalidad. Suele
    tener el formato: "US: As a User, I must have a way to interact with the application, so
    that I can manage my needs."
+ - Tareas: son actividades específicas y detelladas necesarias para completar una historia de usuario.
+   Estas tareas se reparten entre los diferentes miembros del equipo.
  - Etiquetas: son palabras clave asignadas a los issues para organizarlos. Sirven para
    clasificar y filtrar tareas según su estado, prioridad, etc.
+ - Sprints: son bloques de tiempo definidos en los que se planifican, desarrollan y completan un
+   cojunto específico de historias de usuario y tareas.
 
 ### Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
 
