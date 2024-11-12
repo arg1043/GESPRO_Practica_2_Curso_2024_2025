@@ -17,6 +17,7 @@ Incluid debajo el nombre de los miembros del grupo:
  
 · Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 
+Type: Epic ![image](https://github.com/user-attachments/assets/3f7a957d-ca69-4428-9d00-e069d8d3c15d)
 
 Type: User Story ![image](https://github.com/user-attachments/assets/77421f2d-7825-47de-abda-5d335c571e43)
 
