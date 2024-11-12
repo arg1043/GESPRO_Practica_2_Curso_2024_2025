@@ -47,3 +47,6 @@ Type: Task ![image](https://github.com/user-attachments/assets/e9ac5b52-1470-418
 ![image](https://github.com/user-attachments/assets/07f1d93c-9bd6-41a3-aeb2-5dbf75af128b)
 
 · Imagen de conversación en dos tareas (10%)
+
+![image](https://github.com/user-attachments/assets/4f7e4f70-90a8-4a32-b4a5-308fdc692112)
+
