@@ -21,7 +21,7 @@ Type: Epic ![image](https://github.com/user-attachments/assets/3f7a957d-ca69-442
 
 Type: User Story ![image](https://github.com/user-attachments/assets/77421f2d-7825-47de-abda-5d335c571e43)
 
-
+Type: Task ![image](https://github.com/user-attachments/assets/e9ac5b52-1470-4182-b40b-f9f2fb063a89)
 
 ![image](https://github.com/user-attachments/assets/4f63b7d6-dfa4-4a1e-bd8e-cf4a6664412b)
 
