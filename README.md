@@ -44,4 +44,6 @@ Type: Task ![image](https://github.com/user-attachments/assets/e9ac5b52-1470-418
 
 · Tareas de la 2da Release en progreso y filtradas por algún topic (15%)
 
+![image](https://github.com/user-attachments/assets/07f1d93c-9bd6-41a3-aeb2-5dbf75af128b)
+
 · Imagen de conversación en dos tareas (10%)
