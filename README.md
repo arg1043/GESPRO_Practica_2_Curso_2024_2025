@@ -17,6 +17,11 @@ Incluid debajo el nombre de los miembros del grupo:
  
 · Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 
+
+Type: User Story ![image](https://github.com/user-attachments/assets/77421f2d-7825-47de-abda-5d335c571e43)
+
+
+
 ![image](https://github.com/user-attachments/assets/4f63b7d6-dfa4-4a1e-bd8e-cf4a6664412b)
 
 · Tareas de 1er Release en el Sprint Backlog (5%)
