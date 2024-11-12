@@ -9,11 +9,22 @@ Incluid debajo el nombre de los miembros del grupo:
  - Raúl Barriuso García
  - Bruno Arza López
 
-· Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
- 
- Extensión Zenhub: https://chromewebstore.google.com/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
- 
- Github: https://github.com/
+#### Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
+
+Primero creamos nuestra cuenta de GitHub. Tras eso un miembro del equipo debe crear el repositorio, en este caso,
+hacemos un fork del repositorio el cual mandó el profesor: https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
+El fork se hace seleccionand la pestaña de fork, y pulsando en "Create new fork".
+
+Una vez hecho el fork hay que añadir a los miembros que van a conformar el equipo al repositorio que hemos creado, para ello
+la persona que hizo el fork debe ir a Settings > Collaborators y en Manage Access buscamos la cuenta de nuestos compañeros
+para agregarlos al proyecto.
+
+Una vez agregados debemos instalar la extensión de Zenhub de la siguiente web:
+https://chromewebstore.google.com/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd
+
+Una vez instalada, debemos iniciar sesión en Zenhub con nuestra cuenta de GitHub. Tras eso, debemos añadir nuestro repositorio
+de GitHub a Zenhub para poder visualizarlo. Luego deberemos agregar las cuentas de nuestros compañeros en Zenhub para que puedan
+visualizarlo todos.
  
 · Filtro por Epics, US y Tasks en la columna de New Issues (15%)
 
