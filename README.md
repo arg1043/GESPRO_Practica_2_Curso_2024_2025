@@ -25,7 +25,7 @@ Incluid debajo el nombre de los miembros del grupo:
 
 · Tareas de 1er Release en progreso en diferentes columnas ( solo se mueven las type: TASKS) (10%)
 
-
+![image](https://github.com/user-attachments/assets/84e41eaa-3804-4874-b570-6a8bb2f7ac4d)
 
 · Cierre de 1er Release (5%)
 
