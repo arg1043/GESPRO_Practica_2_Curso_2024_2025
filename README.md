@@ -9,6 +9,12 @@ Incluid debajo el nombre de los miembros del grupo:
  - Raúl Barriuso García
  - Bruno Arza López
 
+### Definiciones
+ - Epics: es un gran objetivo o funcionalidad del proyecto. Representa una agrupación lógica
+   del trabajo que tiene un propósito definido y que puede extenderse a través de varios
+   sprints.
+ - Historias de usuario: 
+
 ### Guía de cómo pueden comenzar los usuarios a interactuar con el proyecto. Fase Github y Zenhub. (15%)
 
 Primero creamos nuestra cuenta de GitHub. Tras eso un miembro del equipo debe crear el repositorio, en este caso,
